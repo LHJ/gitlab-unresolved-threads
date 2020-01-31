@@ -20,5 +20,5 @@
       ]
     }
   ],
-  "permissions": ["https://gitlab.com/*"]
+  "permissions": ["https://git.ludd.ltu.se/*"]
 }

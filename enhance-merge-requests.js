@@ -1,5 +1,5 @@
 if (
-  /^https:\/\/gitlab\.com\/(\w+\/\w+|dashboard)\/merge_requests\/?(\?.*)?$/.test(
+  /^https:\/\/git\.ludd\.ltu\.se\/(\w+\/\w+|dashboard)\/merge_requests\/?(\?.*)?$/.test(
     window.location.href
   )
 ) {

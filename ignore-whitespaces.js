@@ -1,5 +1,5 @@
 if (
-  /^https:\/\/gitlab\.com/.test(window.location.href) &&
+  /^https:\/\/git\.ludd\.ltu\.se/.test(window.location.href) &&
   !/\?.*w=1/.test(window.location.href)
 ) {
   var str = "";
